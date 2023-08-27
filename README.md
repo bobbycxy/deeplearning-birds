@@ -23,3 +23,15 @@ The dataset comprises of 525 bird species. 84635 training images, 2625 test imag
 AWS EC2 Instance - Deep Learning AMI GPU TensorFlow 2.7.3 (Ubuntu 20.04). Instance type: c5.2xlarge
 
 (Learn how to set up your deep learning workstation with AWS [here](https://medium.com/@bobbycxy/detailed-guide-to-connect-ec2-with-vscode-2c084c265e36?source=your_stories_page-------------------------------------))
+
+### Resources
+
+Chollet, F. (2017). Deep learning with python. Manning Publications
+
+Starmer, J. (2021). Image Classification with Convolutional Neural Networks (CNNs). Retrieved from https://www.youtube.com/watch?v=HGwBXDKFk9I
+
+Chollet, F. (2020). Keras documentation: Grad-CAM class activation visualization. Retrieved from https://keras.io/examples/vision/grad_cam/
+
+Rosebrock, A. (2017). ImageNet: VGGNet, ResNet, Inception, and Xception with Keras - PyImageSearch. Retrieved from https://pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+
+Singh et al. (2020). Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks. Retrieved from https://paperswithcode.com/paper/filter-response-normalization-layer
